@@ -1,0 +1,194 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A learned speech spoken to His Excellency the Earl of Essex, upon his departure from Northampton to Worcester, concerning the present expedition. By that learned and religious divine, and minister of Gods word, M. Thomas Springham. Also a true relation of the present proceedings of his Excellency and his army in their march from Northampton to Worcester, to meet with the Kings Majesty.</title>
+            <author>Springham, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93717</idno>
+            <idno type="STC">Wing S5082</idno>
+            <idno type="STC">Thomason E200_60</idno>
+            <idno type="STC">ESTC R14640</idno>
+            <idno type="EEBO-CITATION">99859709</idno>
+            <idno type="PROQUEST">99859709</idno>
+            <idno type="VID">111805</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93717)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111805)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 35:E200[60])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A learned speech spoken to His Excellency the Earl of Essex, upon his departure from Northampton to Worcester, concerning the present expedition. By that learned and religious divine, and minister of Gods word, M. Thomas Springham. Also a true relation of the present proceedings of his Excellency and his army in their march from Northampton to Worcester, to meet with the Kings Majesty.</title>
+                  <author>Springham, Thomas.</author>
+                  <author>Warters, Nathanael.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Cooke,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>Septemb. 27. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Includes "A copie of a letter which was sent with the fore-going speech", signed: Nathanael Warters.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Essex, Robert Devereux, --  Earl of, 1591-1646 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Sources --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111805:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 61 -->
+            <p>A LEARNED SPEECH <hi>SPOKEN TO</hi> HIS EXCELLENCY THE EARL <hi>OF</hi> ESSEX, <hi>UPON</hi> His departure from <hi>Northampton</hi> to <hi>Worceſter,</hi> concerning the preſent expedition.</p>
+            <p>
+               <hi>By that learned and religious Divine, and Miniſter of GODS Word,</hi> M. Thomas Springham.</p>
+            <p>
+               <hi>ALSO</hi> A true Relation of the preſent proceedings of his Excellency and his Army in their march from <hi>Northampton</hi> to <hi>Worceſter,</hi> to meet with the KINGS Majeſty.</p>
+            <p>
+               <hi>Printed for</hi> Tho. Cooke. <hi>Septemb.</hi> 27. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="speech">
+            <pb facs="tcp:111805:2"/>
+            <!-- PDF PAGE 62 -->
+            <pb n="1" facs="tcp:111805:2"/>
+            <!-- PDF PAGE 62 -->
+            <head>A SPEECH Spoken to the EARLE OF ESSEX, upon his departure from <hi>Northampton:</hi> BY <hi>M. Thomas Springham,</hi> Miniſter of GODS Word.</head>
+            <opener>
+               <salute>GREAT SIR,</salute>
+            </opener>
+            <p>I Doe not come about with my ſmall ta<g ref="char:EOLhyphen"/>per to ſet forth the glory of our mid<g ref="char:EOLhyphen"/>day Sun: It were high folly in me, if I did ſtrive to add more luſtre to you our Star new riſen from the Eaſt. I come, and I may boldly ſay, all good people come, to powre forth their glad hearts at your ap<g ref="char:EOLhyphen"/>proaching. You cannot but know, and I cannot but ſpeak, the dark miſts of miſery we a long time have been wrapt in: night ſpread her wings over us, and would have
+<pb n="2" facs="tcp:111805:3"/>
+               <!-- PDF PAGE 63 -->ſoone ſuffocated the life wee enjoyed, had not your Name, before your Preſence, like the day-break, ſhined in our hearts, and ex<g ref="char:EOLhyphen"/>pelled thoſe miſts that dwelt upon us. Our paſt ſorrowes doe not a little contribute to the activity of our joyes, that our Lord ſhines here: griefe and ſorrow have not la<g ref="char:EOLhyphen"/>ſted for an age; and though <hi>Nocte pluit tota</hi> (yet) <hi>redeunt ſpectacula manè:</hi> ſorrow laſteth for a night, but joy cometh in the morning. I need not ſpeak the hearts of Iſrael, my Lord ſees and reads them in their faces: they dare boldly adventure to paſſe over <hi>Scylla,</hi> or <hi>Charibdis,</hi> or enter into the <hi>Cyclops</hi> cave, having you, their <hi>Joſhua,</hi> to march on before them: and not onely the mighty men of valour love and admire you, but alſo as my Lord ſeeth, the great affecti<g ref="char:EOLhyphen"/>on of the whole people is bent on you, as well here, as in that great City, the <hi>Phenix</hi> of the world, from whence you came, now bur<g ref="char:EOLhyphen"/>ning in the flames of her affection towards you. From you all joyntly look for ſafety, well-being, nay being it ſelfe. You are the Planet that muſt give life unto us by your ſweet influence. Suffer not thoſe Comets to reigne over us that threaten to powre forth their malignity into all our quarters, from whom ſave us, or we periſh. Pardon what danger our feares make, it is not in any
+<pb n="3" facs="tcp:111805:3"/>
+               <!-- PDF PAGE 63 -->diſtruſt to our Lord. But leaſt I ſeeme to others to forget what moſt ought to be in<g ref="char:EOLhyphen"/>tended here, and they ſay to me,</p>
+            <q>
+               <bibl>2 <hi>Sam.</hi> 19.10. </bibl>
+               <hi>Why ſpeak you not a word of bringing the King back?</hi>
+            </q>
+            <p>Then let not my Lord be angry if I add one word:</p>
+            <q>
+               <bibl>2 <hi>Sam.</hi> 19.41. </bibl>
+               <hi>Goe with the men of Iſrael to the King, and ſay unto the King, Why have our brethren, the men of Judah, ſtollen thee away? and have brought the King and his houſhold, and all Davids men with him?</hi>
+            </q>
+            <q>
+               <bibl>2 <hi>Sam.</hi> 19.43. </bibl>
+               <hi>Go, for ye have ten parts in the King, and ye have more right in David then they,</hi>
+            </q>
+            <p>And I, though the meaneſt and worſt of all the Prophets (yet no falſe one) doe bid my Lord go forth and proſper.</p>
+         </div>
+         <div type="letter_with_commentary">
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>
+                     <hi>The Copie of a Letter which was ſent with the fore-going ſpeech, ſhewing the truth of it, dire<g ref="char:EOLhyphen"/>cted to</hi> M. William Piggot <hi>dwelling in Crutched Friers in London.</hi>
+                  </head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>I thought, the laſt letter I ſent you would be the laſt I ſhould ſend from North<g ref="char:EOLhyphen"/>hamton; for, we expected daily when wee ſhould march forwards: I ſhould not have troubled you at this time if I had not
+<pb n="2" facs="tcp:111805:4"/>
+                     <!-- PDF PAGE 64 -->
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="3" facs="tcp:111805:4"/>
+                     <!-- PDF PAGE 64 -->
+                     <gap reason="duplicate" extent="1 page">
+                        <desc>〈1 page duplicate〉</desc>
+                     </gap>
+                     <pb n="4" facs="tcp:111805:5"/>
+                     <!-- PDF PAGE 65 -->this token to ſend you, a thing of much value in the judgement of all the auditors; it is a Spech this morning ſpoken by that learned and religious Teacher M. <hi>Thomas Springam</hi> before his Excellency on a miſtake, he think<g ref="char:EOLhyphen"/>ing (and we all thought no leſſe) my Lord would have departed at that time, becauſe he commanded his whole Army to be drawne up in a body, which he did onely to ſee the full ſtreugth thereof. By much entreaty I procured this Speech from M. <hi>Springam;</hi> it is his own hand writing, and I ſhall entreat you to reſerve a copye of it (if you part with it) for me, if it pleaſe God to ſend me a ſafe returne: for none hath a coppy of it, becauſe the Gentleman (this bearer) was in ſuch haſte, that he could not ſtay tiil it could be copied out: As ſoone as he had ended his Speech, the people gave a great ſhoute and my Lord gave him (and all) thanks for there courteous entertainment, and ſaid, their cour<g ref="char:EOLhyphen"/>teſie was ſuch unto him as that he would not leave them as yet, this is all worth the wri<g ref="char:EOLhyphen"/>ting at this preſent, when I have any thing els worth the writing, you ſhall not faile to heare from me, till which I reſt,</p>
+                  <closer>
+                     <signed>Your true friend and Coſen, <hi>Nathanael Warters.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="5" facs="tcp:111805:5"/>
+            <!-- PDF PAGE 65 -->
+            <p>There were Letters read in the Houſe of Commons upon the 22. of September, de<g ref="char:EOLhyphen"/>claring that the Queene is coming for <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and intends to be here within fifteene dayes, for which purpoſe three or foure ſhips are providing to come with her, and it is ſup<g ref="char:EOLhyphen"/>poſed that ſhe will bring over ſome ſtore of Ammunition, with many Cavaliers. It is reported that the Kings Majeſty is coming a<g ref="char:EOLhyphen"/>way from <hi>Shrewsbury</hi> towards <hi>Worceſter,</hi> and on Thurſday a Poſt came to the Houſe with Letters from the Earle of <hi>Eſſex,</hi> intimating that his Excellency had received intelligence by a Letter from M. <hi>Fines,</hi> that Prince <hi>Robert</hi> was neer unto <hi>Worceſter</hi> with about five hun<g ref="char:EOLhyphen"/>dred horſe, with whom <hi>M. Fines</hi> had had a skirmiſh, at which skirmiſh four of <hi>M. Fines</hi> his men were ſlain, and eight of Prince <hi>Ro<g ref="char:EOLhyphen"/>berts;</hi> and withall, that Prince <hi>Robert</hi> had burned and fired diverſe houſes thereabouts, whereupon his Excellency on Thurſday a<g ref="char:EOLhyphen"/>bout twelve of the clock marched with his Forces from <hi>Warwick</hi> towards <hi>Worceſter,</hi> con<g ref="char:EOLhyphen"/>ſiſting of foure and twenty thouſand Horſe and Foot, it being reported that His Maje<g ref="char:EOLhyphen"/>ſty was gone thither, and that Prince <hi>Robert</hi> and his Forces were marched thither: in which Letter alſo his Excellency ſheweth the reaſons which moved him to march towards <hi>Worceſter,</hi> which was well approved of by
+<pb n="6" facs="tcp:111805:6"/>
+               <!-- PDF PAGE 66 -->the Parliament, ſome Eortifications being making, and diverſe Peeces of Ordnance al<g ref="char:EOLhyphen"/>ready brought into the ſaid City. Upon Thurſday alſo the Petition to His Majeſty, together with the Inſtructions to his Excel<g ref="char:EOLhyphen"/>lency the Earle of <hi>Eſſex</hi> for the ordering of his Army, and how far he ſhould hive com<g ref="char:EOLhyphen"/>miſſion to encounter with the enemy, and the Proclamation for pardon to all ſuch as within ten dayes ſhould come in and lay downe their armes, excepting ſome perſons therein by them named: all which were ful<g ref="char:EOLhyphen"/>ly agreed upon (and diſpatched to be ſent to his Excellency) by both Houſes of Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
